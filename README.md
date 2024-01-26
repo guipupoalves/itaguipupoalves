@@ -50,24 +50,24 @@ f.  <b>Visualizar pontos e troféus de usuário</b>: Eu, como usuário da aplica
 <b>Teste de aceitação</b>: Durante ao acesso de login do usuário, deve ser possível visualizar sua pontuação de leitura, bem como quais troféus foram adquiridos pelo mesmo. <br> <br>
 
 
-3.  <b>Modelagem e Diagramação</b>
+3.  <b>Modelagem e Diagramação</b><br>
 
-A modelagem e diagramação foi realizada para facilitar o entendimento da aplicação, bem como auxiliar na compreensão do funcionamento do sistema. 
+A modelagem e diagramação foi realizada para facilitar o entendimento da aplicação, bem como auxiliar na compreensão do funcionamento do sistema. <br>
 
-3.1 –<b>Explicação do fluxo das User Stories<b>
+3.1 –<b>Explicação do fluxo das User Stories<b><br>
 
-<b>User Story: Fazer login</b>
+<b>User Story: Fazer login</b><br>
 
 
 Usuário insere seu nome no campo “Usuário” e sua senha no campo “Senha”, logo após clicar em “Entrar”. Caso ambos parâmetros estejam corretos, o processo de autenticação é realizado com sucesso e o usuário é redirecionado para a página da home.
 
 
-<b>User Story: Visualizar lista de livros</b>
+<b>User Story: Visualizar lista de livros</b><br>
 
 Ao clicar na opção destacada “Lista de livros disponíveis” o usuário será redirecionado para a lista contendo todos os livros disponíveis na aplicação:
 
 
-<b>User Story: Visualizar Livro</b>
+<b>User Story: Visualizar Livro</b><br>
 
 Na página de lista dos livros, o usuário pode selecionar um livro específico para receber mais informações sobre o mesmo ao clicar no botão com o título e autor logo abaixo da ilustração de sua capa.
 
@@ -75,7 +75,7 @@ Ao realizar tal operação, o usuário será redirecionado para a página do liv
 
 
 
-<b>User Story: Marcar leitura de livro</b>
+<b>User Story: Marcar leitura de livro</b><br>
  
 Na página específica do livro o usuário pode clicar no botão em destaque “Esse eu já li” para confirmar sua leitura e contabilizar os pontos referentes ao livro em seu perfil.
 
@@ -94,16 +94,16 @@ Na página inicial, o usuário poderá clicar no botão destacado na imagem abai
 
 5.  <b>Planejamento da Iteração</b>
 
-<b>Semana 1</b>:
-Desenvolvimento front-end e interações de login (Estimado: 4 dias)
-Lista completa de Livros – Front-end (Estimado: 1 dia)
-Página de Livros específicos – Front-end (Estimado: 1 dia)
-Ranking de usuários – Front-end (Estimado: 1 dia)
+<b>Semana 1</b>: <br>
+Desenvolvimento front-end e interações de login (Estimado: 4 dias)<br>
+Lista completa de Livros – Front-end (Estimado: 1 dia)<br>
+Página de Livros específicos – Front-end (Estimado: 1 dia)<br>
+Ranking de usuários – Front-end (Estimado: 1 dia)<br>
 
-<b>Semana 2</b>:
-Desenvolvimento do sistema de pontuação (Estimado: 4 dias)
-Integração dos pontos ao perfil e interações com o ranking (Estimado: 2 dias)
-Desenvolvimento do sistema de recompensa por troféus a cada 5 livros lidos do mesmo gênero (Estimado: 1 dia)
+<b>Semana 2</b>:<br>
+Desenvolvimento do sistema de pontuação (Estimado: 4 dias)<br>
+Integração dos pontos ao perfil e interações com o ranking (Estimado: 2 dias)<br>
+Desenvolvimento do sistema de recompensa por troféus a cada 5 livros lidos do mesmo gênero (Estimado: 1 dia)<br>
 
 5.  <b>Burndown Chat</b> <br>
 As tasks representadas neste gráfico foram determinadas por possuírem a mesma estimativa de duração (4 dias). O desenvolvimento front-end e integrações de login está representado pela cor laranja no gráfico, enquanto o Desenvolvimento completo do sistema de pontuação está representado pela cor azul. Os eixos X e Y representam o sistema padrão do Burndown Chart, onde o eixo X representa os dias corridos, e o eixo Y representa o trabalho faltante para a conclusão. Neste caso em específico, o desenvolvimento do login correspondeu aos 4 dias conforme estimado. Porém, o desenvolvimento do sistema completo de pontuação ultrapassou o tempo estimado.
