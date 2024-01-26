@@ -17,42 +17,42 @@ a.  Logar Usuário: Eu, como usuário da aplicação, quero poder realizar login
 
 Size: Pequeno <br>
 Business Value: 3 <br>
-Teste de aceitação: O login deve ser realizado através da coleta de informações de usuário e senha válidos, de modo que, caso quaisquer dos parâmetros esteja incorreto, não seja possível prosseguir o processo de autenticação e acessar a aplicação.
+Teste de aceitação: O login deve ser realizado através da coleta de informações de usuário e senha válidos, de modo que, caso quaisquer dos parâmetros esteja incorreto, não seja possível prosseguir o processo de autenticação e acessar a aplicação. <br>
 
 b.  Visualizar lista de livros: Eu, como usuário da aplicação, quero poder visualizar a lista completa de livros, para que eu possa saber quais estão disponíveis na aplicação.
 
-Size: Mediano
-Business Value: 7
-Teste de aceitação: A visualização da lista deve permitir acesso individual a qualquer um dos livros nela contida para obter mais informações sobre o mesmo. Deve ser possível rolar a lista utilizando o scroll up/down do mouse. 
+Size: Mediano <br>
+Business Value: 7 <br>
+Teste de aceitação: A visualização da lista deve permitir acesso individual a qualquer um dos livros nela contida para obter mais informações sobre o mesmo. Deve ser possível rolar a lista utilizando o scroll up/down do mouse. <br>
 
 c.  Visualizar livro: Eu, como usuário da aplicação, quero poder visualizar um livro específico da lista, para que eu possa saber mais informações sobre o mesmo, como sinopse, número de páginas e gênero da obra.
 
-Size: Mediano
-Business Value: 7
-Teste de aceitação: Durante o acesso a lista de livros, deve ser possível clicar individualmente em um livro para acessar mais informações sobre o mesmo, como: Sinópse, número de páginas e gênero.
+Size: Mediano <br>
+Business Value: 7 <br>
+Teste de aceitação: Durante o acesso a lista de livros, deve ser possível clicar individualmente em um livro para acessar mais informações sobre o mesmo, como: Sinópse, número de páginas e gênero. <br>
 
 d.  Marcar leitura de livro: Eu, como usuário da aplicação, quero poder marcar um livro específico da lista que eu já tenha lido, para que eu possa ganhar os pontos provenientes da leitura.
 
-Size: Mediano
-Business Value: 9
-Teste de aceitação: Na página de um livro específico, deve ser possível marcar o mesmo como lido ao clicar no botão “Esse eu já li!”, bem como sua pontuação deve ser devidamente contabilizada no perfil do usuário para sua consideração pessoal e no ranking.
+Size: Mediano <br>
+Business Value: 9 <br>
+Teste de aceitação: Na página de um livro específico, deve ser possível marcar o mesmo como lido ao clicar no botão “Esse eu já li!”, bem como sua pontuação deve ser devidamente contabilizada no perfil do usuário para sua consideração pessoal e no ranking.<br>
 
 e.  Visualizar ranking de usuários: Eu, como usuário da aplicação, quero poder visualizar o ranking de usuários, para que eu possa comparar minha pontuação com os demais leitores.
 
-Size: Mediano
-Business Value: 6
-Teste de aceitação: Deve ser possível através da home acessar uma página de rank que classifica os usuários em ordem decrescente de pontuação. O rank deve ser constituído por até 10 usuários, onde os 3 primeiros terão um destaque maior.
+Size: Mediano <br>
+Business Value: 6 <br>
+Teste de aceitação: Deve ser possível através da home acessar uma página de rank que classifica os usuários em ordem decrescente de pontuação. O rank deve ser constituído por até 10 usuários, onde os 3 primeiros terão um destaque maior. <br>
 
 f.  Visualizar pontos e troféus de usuário: Eu, como usuário da aplicação, quero poder acessar o meu perfil e visualizar meus pontos e troféus coletados ao longo do uso da aplicação, para que eu possa ter um controle efetivo no meu progresso.
 
-Size: Mediano
-Business Value: 6
-Teste de aceitação: Durante ao acesso de login do usuário, deve ser possível visualizar sua pontuação de leitura, bem como quais troféus foram adquiridos pelo mesmo.
+Size: Mediano <br>
+Business Value: 6 <br>
+Teste de aceitação: Durante ao acesso de login do usuário, deve ser possível visualizar sua pontuação de leitura, bem como quais troféus foram adquiridos pelo mesmo. <br> <br>
 
 
 3.  Modelagem e Diagramação
 
-A modelagem e diagramação foi realizada para facilitar o entendimento da aplicação, bem como auxiliar na compreensão do funcionamento do sistema.
+A modelagem e diagramação foi realizada para facilitar o entendimento da aplicação, bem como auxiliar na compreensão do funcionamento do sistema. 
 
 3.1 –Explicação do fluxo das User Stories
 
