@@ -15,8 +15,8 @@ Neste presente trabalho, a escala adotada para o cálculo de Business Value é r
 
 a.  Logar Usuário: Eu, como usuário da aplicação, quero poder realizar login na mesma para que eu possa acessar as funcionalidades e recursos disponibilizados.
 
-Size: Pequeno
-Business Value: 3 
+Size: Pequeno <br>
+Business Value: 3 <br>
 Teste de aceitação: O login deve ser realizado através da coleta de informações de usuário e senha válidos, de modo que, caso quaisquer dos parâmetros esteja incorreto, não seja possível prosseguir o processo de autenticação e acessar a aplicação.
 
 b.  Visualizar lista de livros: Eu, como usuário da aplicação, quero poder visualizar a lista completa de livros, para que eu possa saber quais estão disponíveis na aplicação.
