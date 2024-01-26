@@ -19,7 +19,7 @@ a.  <b>Logar Usuário</b>: Eu, como usuário da aplicação, quero poder realiza
 <b>Business Value</b>: 3 <br>
 <b>Teste de aceitação</b>: O login deve ser realizado através da coleta de informações de usuário e senha válidos, de modo que, caso quaisquer dos parâmetros esteja incorreto, não seja possível prosseguir o processo de autenticação e acessar a aplicação. <br>
 
-b.  Visualizar lista de livros: Eu, como usuário da aplicação, quero poder visualizar a lista completa de livros, para que eu possa saber quais estão disponíveis na aplicação.
+b.  <b>Visualizar lista de livros</b>: Eu, como usuário da aplicação, quero poder visualizar a lista completa de livros, para que eu possa saber quais estão disponíveis na aplicação.
 
 <b>Size</b>: Mediano <br>
 <b>Business Value</b>: 7 <br>
