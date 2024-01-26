@@ -105,6 +105,6 @@ Desenvolvimento do sistema de pontuação (Estimado: 4 dias)
 Integração dos pontos ao perfil e interações com o ranking (Estimado: 2 dias)
 Desenvolvimento do sistema de recompensa por troféus a cada 5 livros lidos do mesmo gênero (Estimado: 1 dia)
 
-5.  <b>Burndown Chat</b>
+5.  <b>Burndown Chat</b> <br>
 As tasks representadas neste gráfico foram determinadas por possuírem a mesma estimativa de duração (4 dias). O desenvolvimento front-end e integrações de login está representado pela cor laranja no gráfico, enquanto o Desenvolvimento completo do sistema de pontuação está representado pela cor azul. Os eixos X e Y representam o sistema padrão do Burndown Chart, onde o eixo X representa os dias corridos, e o eixo Y representa o trabalho faltante para a conclusão. Neste caso em específico, o desenvolvimento do login correspondeu aos 4 dias conforme estimado. Porém, o desenvolvimento do sistema completo de pontuação ultrapassou o tempo estimado.
  
