@@ -54,7 +54,7 @@ f.  <b>Visualizar pontos e troféus de usuário</b>: Eu, como usuário da aplica
 
 A modelagem e diagramação foi realizada para facilitar o entendimento da aplicação, bem como auxiliar na compreensão do funcionamento do sistema. <br>
 
-3.1 –<b>Explicação do fluxo das User Stories<b><br>
+3.1 –<b>Explicação do fluxo das User Stories</b><br>
 
 <b>User Story: Fazer login</b><br>
 
